@@ -1,0 +1,1 @@
+/home/ubuntu/nextflow_ex2/work/4a/6a139f6830ee9e7ef798c9d1ef64e6/tips.txt
